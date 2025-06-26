@@ -37,3 +37,4 @@ if ($(refs.clearBtn)) {
     $all(`${refs.list} li.completed`).forEach(li => li.remove());
   });
 }
+
